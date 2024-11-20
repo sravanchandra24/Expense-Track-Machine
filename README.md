@@ -64,12 +64,12 @@ The **Expense Tracker** is a C++ console-based application designed to manage an
 * Expense added successfully.
 
 ### Viewing Expenses:
-Description          Amount    
------------------------------------
-Lunch                10.50     
-Groceries            25.00     
------------------------------------
-Total Expense        35.50
+* Description          Amount    
+* -----------------------------------
+* Lunch                10.50     
+* Groceries            25.00     
+* -----------------------------------
+* Total Expense        35.50
 
 ## Deleting an Expense:
 * Enter the index of the expense to delete (starting from 1): 1
