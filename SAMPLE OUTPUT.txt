@@ -1,0 +1,83 @@
+SAMPLE OUTPUT:
+
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 1
+
+		Enter description: Rent
+		Enter amount: 11000
+		Expense added successfully.
+----------------------------------------------------------------------
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 2
+
+----------------------------------------------------------------------
+		Description         Amount
+		-----------------------------------
+		Rent                11000
+		-----------------------------------
+		Total Expense       11000     
+
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 1
+----------------------------------------------------------------------
+		Enter description: electricity bill
+		Enter amount: 400
+		Expense added successfully.
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 2
+----------------------------------------------------------------------
+
+		Description         Amount
+		-----------------------------------
+		Rent                11000
+		electricity bill    400
+		-----------------------------------
+		Total Expense       11400
+
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 3
+----------------------------------------------------------------------
+		Enter the index of the expense to delete (starting from 1): 2
+		Expense deleted successfully.
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 2
+
+----------------------------------------------------------------------
+		Description         Amount
+		-----------------------------------
+		Rent                11000
+		-----------------------------------
+		Total Expense       11000
+
+		Expense Tracker Menu:
+		1. Add Expense
+		2. View Expenses
+		3. Delete Expense
+		4. Exit
+		Enter your choice: 4
+----------------------------------------------------------------------
+		Exiting the program.
